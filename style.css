@@ -1,23 +1,17 @@
 body {
     margin: 0;
     height: 100vh;
-
     display: flex;
     justify-content: center;
     align-items: center;
-
     background: linear-gradient(#FFE8F3, #FFF8FC);
-
     font-family: Arial, sans-serif;
 }
 
 h1 {
     background: white;
     padding: 30px 50px;
-
     border-radius: 25px;
-
     box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-
     font-size: 40px;
 }
